@@ -3,6 +3,9 @@ Comparison of Deep Learning Techniques for Stock Price Prediction.
 
 ## Dataset folder
 Contains the two datasets: <br />
+|-> _Data_Preprocessing.ipynb_ (This is a notebook used to create the datasets.) <br />
+|-> _normal_test_data.csv_ <br />
+|-> _normal_train_data.csv_ <br />
 |-> _test_data.csv_ <br />
 |-> _train_data.csv_
 
