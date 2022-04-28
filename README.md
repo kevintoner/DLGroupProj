@@ -1,5 +1,4 @@
-# DLGroupProj
-Comparison of Deep Learning Techniques for Stock Price Prediction.
+# Comparison of Deep Learning Techniques for Stock Price Prediction.
 
 ## Dataset folder
 Contains four datasets and the notebook used to generate them: <br />
