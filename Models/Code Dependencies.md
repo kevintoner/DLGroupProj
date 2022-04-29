@@ -1,3 +1,8 @@
+## Code Dependencies 
+
+The required library packages to install before running the notebooks.  
+(The demos of each model require the same installations.)
+
 **GRU_And_LSTM.ipynb**
 * pip install matplotlib  
 * pip install sklearn  
