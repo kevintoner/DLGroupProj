@@ -2,6 +2,8 @@ This shows the github repos that were used as inspiration for some of the models
 
 **ARIMA:**
 
-**NBEATS:** https://github.com/unit8co/darts/blob/master/examples/07-NBEATS-examples.ipynb
+**NBEATS:** 
+* https://github.com/unit8co/darts/blob/master/examples/07-NBEATS-examples.ipynb
+* The code was modified to use our dataset.
 
 **TFT:**
