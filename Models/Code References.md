@@ -7,3 +7,5 @@ This shows the github repos that were used as inspiration for some of the models
 * The code was modified to use our dataset.
 
 **TFT:**
+* https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html
+* The code was modified to use our dataset.
