@@ -1,6 +1,6 @@
 # Comparison of Deep Learning Techniques for Stock Price Prediction.
 
-AI702 Deep Learning Course Project submitted by Eman Al suradi, Kevin Toner and Shahina Kunhimon.
+AI702 Deep Learning Course Project submitted by Eman Al Suradi, Kevin Toner and Shahina Kunhimon.
 
 ## Overview
 
