@@ -11,7 +11,7 @@ The required library packages to install before running the notebooks.
 * pip install torch  
 * pip install numpy  
 
-## **NBEATS.ipynb**
+## **N_BEATS_script.ipynb**
 * pip install matplotlib
 * pip install sklearn
 * pip install pandas
