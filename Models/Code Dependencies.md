@@ -11,6 +11,13 @@ The required library packages to install before running the notebooks.
 * pip install torch  
 * pip install numpy  
 
+## **ARIMA.ipynb**
+* pip install matplotlib  
+* pip install sklearn  
+* pip install pandas  
+* pip install statsmodel   
+* pip install numpy 
+
 ## **N_BEATS_script.py**
 * pip install matplotlib
 * pip install sklearn
