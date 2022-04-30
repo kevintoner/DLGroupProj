@@ -20,16 +20,23 @@ Contains four datasets and the notebook used to generate them: <br />
 |-> _Data_Preprocessing.ipynb_ <br />
 |-> _normal_test_data.csv_ <br />
 |-> _normal_train_data.csv_ <br />
-|-> _test_data.csv_ <br />
-|-> _train_data.csv_
+|-> _small_dataset.csv_ <br />
+|-> _big_dataset.csv_ 
+
 
 ### Models folder
-Contains a notebook file for each of the models: <br />
+Contains a notebook/python file for each of the models: <br />
 |-> _ARIMA.ipynb_ <br />
-|-> _NBEATS.ipynb_ <br />
+|-> _NBEATS.py_ <br />
 |-> _LSTM.ipynb_ <br />
 |-> _GRU.ipynb_ <br />
-|-> _TFT.ipynb_
+|-> _TFT.ipynb_<br />
+**|-> Demos folder** <br />
+&emsp;Contains a demo instructions file, and demo notebooks for some of the models: <br />
+&emsp;|-> ARIMA_Demo.ipynb <br />
+&emsp;|-> Demo Instructions.md <br />
+&emsp;|-> LSTM_and_GRU_Demo.ipynb <br />
+&emsp;|-> NBEATS_Demo.ipynb <br />
 
 
 ## References
