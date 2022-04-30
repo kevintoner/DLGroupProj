@@ -8,13 +8,10 @@ This project is a comparative study of different deep learning techniques and st
 the future stock prices of the Alphabet company.  Univariate probabilistic model ARIMA is used as the baseline. The deep learning
 models used are:
 
-1. Long Short-Term Memory (LSTM) 
-2. Gated Recurrent Unit (GRU) 
-3. N-BEATS 
-4. Temporal Fusion Transformer (TFT)
-
-## Requirements
-
+1. Long Short-Term Memory (LSTM) [1]
+2. Gated Recurrent Unit (GRU) [2]
+3. N-BEATS [3]
+4. Temporal Fusion Transformer (TFT) [4]
 
 
 ## Contents
@@ -33,3 +30,11 @@ Contains a notebook file for each of the models: <br />
 |-> _LSTM.ipynb_ <br />
 |-> _GRU.ipynb_ <br />
 |-> _TFT.ipynb_
+
+
+## References
+1. Hochreiter, S. and Schmidhuber, J., 1997. Long short-term memory. Neural computation, 9(8), pp.1735-1780.http://www.bioinf.jku.at/publications/older/2604.pdf
+2. Cho, K., Van Merriënboer, B., Bahdanau, D. and Bengio, Y., 2014. On the properties of neural machine translation: Encoder-decoder approaches https://arxiv.org/abs/1409.1259
+3.  Oreshkin, B.N., Carpov, D., Chapados, N. and Bengio, Y., 2019. N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.
+https://arxiv.org/abs/1905.10437
+4. Lim, B., Arik, S.O., Loeff, N. and Pfister, T., 2019. Temporal fusion transformers for interpretable multi-horizon time series forecasting. https://arxiv.org/abs/1912.09363
